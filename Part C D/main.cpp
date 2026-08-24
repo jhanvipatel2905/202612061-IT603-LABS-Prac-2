@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    Student s("Kunal Adwani", 85);
+    Student s("Jhanvi Patel", 16);
 
     s.display();
 
