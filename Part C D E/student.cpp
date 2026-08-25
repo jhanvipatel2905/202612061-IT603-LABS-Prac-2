@@ -14,5 +14,5 @@ void Student::display() {
 }
 
 bool Student::isPassed() {
-    return marks >= 35;
+    return marks >= 10;
 }
