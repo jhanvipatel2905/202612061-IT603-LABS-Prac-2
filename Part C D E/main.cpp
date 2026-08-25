@@ -13,6 +13,6 @@ int main() {
     } else {
         cout << "Result: Failed" << endl;
     }
-    cout << "for gitimore" << endl;
+    cout << "for part e" << endl;
     return 0;
 }
